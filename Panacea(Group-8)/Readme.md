@@ -2,8 +2,8 @@
 
 ## TEAM MEMBERS
 
-Apoorva Srivastava (1900290140008)
-Suruchi Sinha (1900290140040)
+1) Apoorva Srivastava (1900290140008)
+2) Suruchi Sinha (1900290140040)
 
 ## OBJECTIVE:
 
