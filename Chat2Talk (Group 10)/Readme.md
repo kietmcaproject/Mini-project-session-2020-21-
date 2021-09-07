@@ -1,6 +1,6 @@
 # Chat2Talk
 
-## Team Members:- 
+## Team Members:
 **Nirmit Bansal (1900290140022)**
 
 **Archana Varshney (1900290140009)**
