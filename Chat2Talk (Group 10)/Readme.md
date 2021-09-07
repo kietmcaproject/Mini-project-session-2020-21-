@@ -1,9 +1,9 @@
 # Chat2Talk
 
 ## Team Members:
-**Nirmit Bansal (1900290140022)**
+**Harshika Srivastava (1900290140015)**
 
-**Archana Varshney (1900290140009)**
+**Amit Kumar(1900290140006)**
 
 **Objective**
 
