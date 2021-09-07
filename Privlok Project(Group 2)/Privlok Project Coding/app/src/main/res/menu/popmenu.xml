@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/edititem"
+        android:title="Edit"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/searchitem"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/delete_all"
+        android:title="Delete All"
+        android:icon="@drawable/ic_delete_24"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/favouritesitem"
+        android:title="Favorites" />
+    <item
+        android:id="@+id/backupitem"
+        android:title="Sync/Backup" />
+    <item
+        android:id="@+id/settingsitem"
+        android:title="Settings" />
+</menu>
