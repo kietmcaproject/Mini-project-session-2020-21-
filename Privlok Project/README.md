@@ -23,6 +23,6 @@ an account on privlok and existing user can directly log in.
 
 Users can store their passwords with their account handle. User information will store in encrypted form. Our project is 
 based on android technology. The technology which we are using in our application is as 
-follows .i.e., Android Studio and SQL. The benefit of our application in the real world is that 
+follows .i.e., Android Studio and SQLite. The benefit of our application in the real world is that 
 users do need to remember all the passwords all the time. Users can access their data 
 whenever is required.
