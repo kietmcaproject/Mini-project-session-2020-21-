@@ -20,7 +20,7 @@ we are planning to add a feedback section in our application so that we can impr
 according to users feedback. In future we introduce backend in our application for that 
 we will choose Node Js.
 ## Sources 
-we are contributing in our project what ever we are learning and preparing in Data structures and Algorithm section 
+we are contributing in our project what ever we are learning and preparing in Data structures and Algorithms.<br/> 
 we created a seprate repository for it.</br>
 Repository link : https://github.com/shivamnerwal1998/DSA_.git
 ## Future Scope Of Project
