@@ -3,7 +3,7 @@
 ## Team Members:
 **Harshika Srivastava (1900290140015)**
 
-**Amit Kumar(1900290140006)**
+**Amit Kumar (1900290140006)**
 
 **Objective**
 
@@ -11,7 +11,7 @@
 
 
 
-` `**Why we have choosen Chat2Talk as our Project?**
+**Why we have choosen Chat2Talk as our Project?**
 
 The idea behind building this App was to understand how Andriod work and to learn FIREBASE and for this we thought it is best to build a chatting application which we use on a daily basis.
 
