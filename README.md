@@ -1,2 +1,2 @@
-# student-project
+# chatalk
 All MCA student projects
