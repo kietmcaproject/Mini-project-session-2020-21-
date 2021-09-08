@@ -1,14 +1,15 @@
+<header><img class="page-cover-image" src="kietlogo.jpeg"/><div class="page-header-icon page-header-icon-with-cover"><span class="icon"></span></div><h1 class="page-title"></h1></header>
+
 # KIET VIDEO PORTAL
-<header><img class="page-cover-image" src=""/><div class="page-header-icon page-header-icon-with-cover"><span class="icon"></span></div><h1 class="page-title"></h1></header>
 
 ## Team Members:
-**Monu Ruhela  (1900290140019)
+**Monu Ruhela**  (1900290140019)
 
-**Sumit Gautam (1900290140038)
+**Sumit Gautam** (1900290140038)
 
-**Arya Mishra  (1900290140010)
+**Arya Mishra**  (1900290140010)
 
-**Babli Pandey (1900290140012)
+**Babli Pandey** (1900290140012)
 
 **Objective**
 
