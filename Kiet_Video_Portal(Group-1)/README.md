@@ -1,4 +1,4 @@
-<header><img class="page-cover-image" src="kietlogo.jpeg"/><div class="page-header-icon page-header-icon-with-cover"><span class="icon"></span></div><h1 class="page-title"></h1></header>
+
 
 # KIET VIDEO PORTAL
 
